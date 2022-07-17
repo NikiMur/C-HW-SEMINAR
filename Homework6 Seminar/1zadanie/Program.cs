@@ -18,7 +18,7 @@
                 numb--; 
             }
             Console.WriteLine($"Выведенные числа  {num1}");
-            Console.WriteLine($"Сколько больше нуля  {count}");   
+            Console.WriteLine($"Колличество больше нуля  {count}");   
         }
 
 
